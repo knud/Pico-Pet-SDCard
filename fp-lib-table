@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Module_RaspberryPi_Pico") (type "KiCad") (uri "/Users/knud/Development/KiCAD/ki-lime-pi-to-go/Module_RaspberryPi_Pico.pretty") (options "") (descr ""))
+	(lib (name "M41T81M6F") (type "KiCad") (uri "${KIPRJMOD}/library/M41T81M6F/footprints.pretty") (options "") (descr ""))
+	(lib (name "SN75161BN") (type "KiCad") (uri "${KIPRJMOD}/library/SN75161BN/footprints.pretty") (options "") (descr ""))
+)

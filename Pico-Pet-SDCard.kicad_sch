@@ -7,10 +7,148 @@
 	(title_block
 		(title "Raspberry Pi Pico Pet SDCard")
 		(rev "v0.1.0")
-		(comment 2 "License : MIT")
-		(comment 4 "Author : Steven Knudsen")
+		(comment 3 "License : MIT")
+		(comment 4 "Author : Steven Knudsen (github knud)")
 	)
 	(lib_symbols)
+	(sheet
+		(at 30.48 107.95)
+		(size 52.07 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "00e9d803-f18c-480a-9279-cc60f7df57aa")
+		(property "Sheetname" "Processor"
+			(at 30.48 107.2384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Processor.kicad_sch"
+			(at 30.48 136.4746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Pico-Pet-SDCard"
+				(path "/dce51dc3-662e-4406-86a3-bd77e811ba7d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 25.4)
+		(size 52.07 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "08dbed2d-2f75-451f-8b23-d257f64b8d44")
+		(property "Sheetname" "Connectors"
+			(at 30.48 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectors.kicad_sch"
+			(at 30.48 53.9246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Pico-Pet-SDCard"
+				(path "/dce51dc3-662e-4406-86a3-bd77e811ba7d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 67.31)
+		(size 52.07 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "55fc3638-8c63-4bf8-9b5b-c4672e2478ab")
+		(property "Sheetname" "Power"
+			(at 30.48 66.5984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 30.48 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Pico-Pet-SDCard"
+				(path "/dce51dc3-662e-4406-86a3-bd77e811ba7d"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
