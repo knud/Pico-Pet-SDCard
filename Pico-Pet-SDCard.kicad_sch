@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "dce51dc3-662e-4406-86a3-bd77e811ba7d")
+	(paper "USLegal")
+	(title_block
+		(title "Raspberry Pi Pico Pet SDCard")
+		(rev "v0.1.0")
+		(comment 2 "License : MIT")
+		(comment 4 "Author : Steven Knudsen")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
